@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmallTaskOne</string>
+    <string name="message">MESSAGE</string>
+    <string name="a_banner">A banner</string>
+</resources>
